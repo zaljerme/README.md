@@ -68,7 +68,7 @@ Embedded Hardware  → Edge AI
 
 ## Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME\&repo=YOUR_REPO\&theme=transparent)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![Project 1]([https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME\&repo=YOUR_REPO\&theme=transparent)](https://github.com/YOUR_USERNAME/YOUR_REPO](https://github.com/zaljerme/race-attention))
 
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME\&repo=YOUR_SECOND_REPO\&theme=transparent)](https://github.com/YOUR_USERNAME/YOUR_SECOND_REPO)
 
